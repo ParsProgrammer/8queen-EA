@@ -4,10 +4,20 @@ In this problem, the ultimate goal is about finding a way that queens can be pla
 ![alt text](https://github.com/ParsProgrammer/8queen-EA/blob/master/Picture1.png?raw=true)
 
 ### Components of the algorithm
-individual( chromosome ):
+Individual( chromosome ):
 
 ![alt text](https://github.com/ParsProgrammer/8queen-EA/blob/master/ind.png?raw=true)
 
 
+Population:
 
+![alt text](https://github.com/ParsProgrammer/8queen-EA/blob/master/pop.png?raw=true)
+
+Fitness Function:
+
+
+
+Output:
+
+![alt text](https://github.com/ParsProgrammer/8queen-EA/blob/master/Picture2.png?raw=true)
 
