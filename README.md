@@ -15,7 +15,7 @@ Population:
 
 Fitness Function:
 
-
+![alt text](https://github.com/ParsProgrammer/8queen-EA/blob/master/fitness.png?raw=true)
 
 Output:
 
